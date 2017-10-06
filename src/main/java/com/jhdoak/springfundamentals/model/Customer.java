@@ -1,4 +1,4 @@
-package model;
+package com.jhdoak.springfundamentals.model;
 
 public class Customer {
     private String firstName;
